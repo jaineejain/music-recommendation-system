@@ -1,0 +1,14 @@
+track_name,artists,track_genre,danceability,energy,valence,tempo,acousticness,liveness,instrumentalness,loudness,speechiness
+Blinding Lights,The Weeknd,pop,0.514,0.73,0.334,171.005,0.00146,0.0897,0.000095,-5.934,0.0598
+Save Your Tears,The Weeknd,pop,0.68,0.826,0.644,118.091,0.0212,0.543,0.000011,-5.187,0.03
+Shape of You,Ed Sheeran,pop,0.825,0.652,0.931,95.977,0.581,0.0931,0.000011,-3.183,0.0802
+Perfect,Ed Sheeran,pop,0.599,0.448,0.168,95.05,0.163,0.106,0.0,-6.312,0.0232
+Someone You Loved,Lewis Capaldi,pop,0.501,0.405,0.446,109.891,0.751,0.105,0.0,-5.679,0.0319
+Stay,The Kid LAROI,pop,0.591,0.764,0.478,169.928,0.0383,0.103,0.0,-5.484,0.0485
+Levitating,Dua Lipa,pop,0.702,0.825,0.915,103.012,0.0561,0.0674,0.000001,-3.787,0.0755
+As It Was,Harry Styles,pop,0.52,0.731,0.662,173.93,0.342,0.311,0.00101,-5.338,0.0557
+Bad Guy,Billie Eilish,pop,0.701,0.425,0.562,135.128,0.328,0.1,0.13,-10.965,0.375
+Believer,Imagine Dragons,rock,0.776,0.78,0.666,124.949,0.0622,0.081,0.0,-4.374,0.111
+Take On Me,a-ha,rock,0.573,0.902,0.876,84.412,0.018,0.0928,0.000001,-7.638,0.0543
+Sweet Child O Mine,Guns N Roses,rock,0.451,0.943,0.629,125.618,0.0861,0.116,0.000011,-5.321,0.0437
+
